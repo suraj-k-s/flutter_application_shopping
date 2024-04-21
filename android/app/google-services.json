@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816970885959",
+    "project_id": "productcateloge",
+    "storage_bucket": "productcateloge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816970885959:android:7b34d541db7cd7cd23fa62",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrjhNET3taCOCdMtJUXvqkOGuLsyvgFQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

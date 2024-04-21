@@ -1,0 +1,36 @@
+name: flutter_application_shopping
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^4.15.4
+  firebase_auth: ^4.17.4
+  firebase_core: ^2.25.4
+  firebase_storage: ^11.6.5
+  flutter_glow: ^0.3.0
+  flutter_easyloading: ^3.0.5
+  intl: ^0.18.0
+  timeline_tile: ^2.0.0
+  sticky_footer_scrollview: ^1.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  image_picker: ^1.0.7
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/profile.png
+    - assets/dummy_product.jpg
+    - assets/add-item.png
+    - assets/loading.gif
